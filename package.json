@@ -2,6 +2,7 @@
   "name": "get_tastebuds",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://lkg2098.github.io/get_tastebuds",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
