@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2194ec9.css",
-    "main.js": "/static/js/main.5b8d8266.js",
-    "static/js/453.9475ca97.chunk.js": "/static/js/453.9475ca97.chunk.js",
-    "static/media/PlaywriteIN-Regular.ttf": "/static/media/PlaywriteIN-Regular.266f99ea1222019a5188.ttf",
-    "static/media/bitesBackground.png": "/static/media/bitesBackground.1988330d35912d50becc.png",
-    "index.html": "/index.html",
-    "main.c2194ec9.css.map": "/static/css/main.c2194ec9.css.map",
-    "main.5b8d8266.js.map": "/static/js/main.5b8d8266.js.map",
-    "453.9475ca97.chunk.js.map": "/static/js/453.9475ca97.chunk.js.map"
+    "main.css": "/get_tastebuds/static/css/main.eb8e2e71.css",
+    "main.js": "/get_tastebuds/static/js/main.2c72983c.js",
+    "static/js/453.9475ca97.chunk.js": "/get_tastebuds/static/js/453.9475ca97.chunk.js",
+    "static/media/PlaywriteIN-Regular.ttf": "/get_tastebuds/static/media/PlaywriteIN-Regular.266f99ea1222019a5188.ttf",
+    "static/media/bitesBackground.png": "/get_tastebuds/static/media/bitesBackground.1988330d35912d50becc.png",
+    "index.html": "/get_tastebuds/index.html",
+    "main.eb8e2e71.css.map": "/get_tastebuds/static/css/main.eb8e2e71.css.map",
+    "main.2c72983c.js.map": "/get_tastebuds/static/js/main.2c72983c.js.map",
+    "453.9475ca97.chunk.js.map": "/get_tastebuds/static/js/453.9475ca97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2194ec9.css",
-    "static/js/main.5b8d8266.js"
+    "static/css/main.eb8e2e71.css",
+    "static/js/main.2c72983c.js"
   ]
 }
