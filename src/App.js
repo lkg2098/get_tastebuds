@@ -16,14 +16,14 @@ function App() {
         </script>
       </Helmet>
       <header className="App-header">
-        <ImageBackground
+        {/* <ImageBackground
           src={biteBackground}
           alt="Large bite marks in red-orange shapes with crumbs"
-        />
+        /> */}
         <h1 className="title">
           Welcome to <span className="decorative">Tastebuds</span>
         </h1>
-        <h4 classname="subtitle">
+        <h4 className="subtitle">
           A better way to decide where to eat with friends.
         </h4>
         <div class="ml-embedded" data-form="4xSB54"></div>

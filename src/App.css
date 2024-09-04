@@ -22,6 +22,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: #f43625;
+  background-image: url("./assets/images/bitesBackground.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
 }
 
 .App-link {
@@ -34,14 +37,39 @@
 
 .title {
   margin-block: 0;
+  line-height: 100%;
 }
 
-h4 {
-  margin-block-start: 0;
+.subtitle {
+  margin-block: 0;
+  padding-block: 1em;
 }
 
 .backgroundImage {
-  width: 100%;
-  height: 100%;
+  transform: rotate(90deg);
   position: absolute;
+}
+
+@media (max-width: 985px) {
+  .title {
+    width: 50%;
+    line-height: 140%;
+  }
+  .subtitle {
+    width: 40%;
+    padding-block: 20px;
+  }
+}
+
+/* @media (max-width: 388) {
+  .title {
+    line-height: 120%;
+  }
+} */
+
+@media (max-width: 550px) {
+  .App-header {
+    background-image: url("./assets/images/bitesBackgroundPortrait.png");
+    padding-block-start: 12%;
+  }
 }
