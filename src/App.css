@@ -37,7 +37,7 @@
 
 .title {
   margin-block: 0;
-  line-height: 100%;
+  line-height: 1em;
 }
 
 .subtitle {
@@ -53,23 +53,31 @@
 @media (max-width: 985px) {
   .title {
     width: 50%;
-    line-height: 140%;
+    line-height: 1.4em;
+    padding-block-start: 1em;
   }
   .subtitle {
     width: 40%;
     padding-block: 20px;
   }
+  .App-header {
+    padding-block: 10%;
+  }
 }
 
-/* @media (max-width: 388) {
+@media (max-width: 388px) {
   .title {
-    line-height: 120%;
+    line-height: 1.2em;
   }
-} */
+}
 
 @media (max-width: 550px) {
   .App-header {
     background-image: url("./assets/images/bitesBackgroundPortrait.png");
     padding-block-start: 12%;
   }
+}
+
+.ml-embedded {
+  max-width: 80%;
 }
