@@ -1,5 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Playwrite+IN:wght@100..400&display=swap");
 
+@font-face {
+  font-family: "Playwrite";
+  src: url("./assets/fonts/PlaywriteIN-Regular.ttf");
+}
+
 .App {
   text-align: center;
 }
@@ -34,7 +39,7 @@
 }
 
 .decorative {
-  font-family: "Playwrite IN", system-ui;
+  font-family: "Playwrite", system-ui;
 }
 
 .title {
